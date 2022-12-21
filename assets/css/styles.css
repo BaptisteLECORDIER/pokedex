@@ -1,0 +1,26 @@
+#poke_list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw;
+    margin-left: 15vw;
+
+}
+
+.card {
+    margin: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
